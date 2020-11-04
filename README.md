@@ -1,10 +1,9 @@
-This is a repo for my Mobile App Development Class to practice their Github chops.
+# Github Repo
 
-This is a forked project, originally by Brian is Brilliant, forked by SeoulP
+This is a repo for my [**Mobile App Development Class**](http://butlercc.edu) to practice their Github chops.
 
-Danny was here! 
-
-Brian was here.
-
-/create changes - abra
+- This is a forked project, originally by Brian is Brilliant, forked by SeoulP
+- Danny was here! 
+- Brian was here.
+- /create changes - abra
 
